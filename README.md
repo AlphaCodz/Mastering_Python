@@ -1,13 +1,14 @@
-# Mastering_Python
-Mastering my python skills, and open to contributions, inorder to increase my experience with the language
-
+# ROAD-WORKS 
+<ol>
+  <li> Becoming a Fullstack Web Developer</li>
+  </ol>
 These are the parts i will be focusing on 😀
-<li>
-  HTML, CSS, JAVASCRIPT,
-  DOM and jQUERY,
-  PYTHON,
-  DJANGO AND SQL,
-  WEBSITE CLONES,
-  </li>
+<ul>
+  <li> HTML, CSS, JAVASCRIPT </li>
+  <li> DOM and jQUERY </li>
+  <li> PYTHON </li>
+  <li> DJANGO AND SQLite </li>
+  <li> WEBSITE CLONES </li>
  
+ </ul>
  #LET'S DO THIS
