@@ -1,0 +1,25 @@
+/* Comments */
+/* BASIC FORMAT FOR CSS FILE */
+/* 
+selected tag{
+    property: value;
+}
+*/
+h1{
+    color: blue;
+}
+
+/* Using RGB Color codes */
+li{
+    color: rgb(255,97,0);
+}
+
+/* Using Hex Codes */
+p{
+    color: #0895a8;
+}
+
+/* Using RGBA */
+h4{
+    color: rgba(255, 97, 0, 0.5);
+}

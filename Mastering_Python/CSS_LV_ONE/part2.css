@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+}
+
+div{
+    background-color: blue;
+    border-color: rgb(212, 139, 4);
+    border-width: 5px;
+    border-style: double;
+    border-radius: 20px;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}
